@@ -1,8 +1,8 @@
-name: profiles/test
+name: test
 title: InSpec Profile
-maintainer: The Authors
-copyright: The Authors
-copyright_email: you@example.com
+maintainer: Will Fisher
+copyright: Will Fisher
+copyright_email: will@chef.io
 license: Apache-2.0
-summary: An InSpec Compliance Profile
+summary: An InSpec Compliance Profile Test
 version: 0.1.0
